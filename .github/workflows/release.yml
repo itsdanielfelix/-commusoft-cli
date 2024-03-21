@@ -13,8 +13,7 @@ jobs:
     if: github.repository == 'itsdanielfelix/commusoft-cli'
 
     permissions:
-      contents: read
-      packages: write
+      contents: write
 
     steps:
 
