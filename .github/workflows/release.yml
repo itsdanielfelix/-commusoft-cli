@@ -12,6 +12,10 @@ jobs:
 
     if: github.repository == 'itsdanielfelix/commusoft-cli'
 
+    permissions:
+      contents: read
+      packages: write
+
     steps:
 
       - name: Checkout
