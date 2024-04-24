@@ -18,9 +18,9 @@
         "nunomaduro/termwind": "^1.15.1"
     },
     "require-dev": {
+        "larastan/larastan": "^2.0",
         "laravel/pint": "^1.1",
         "mockery/mockery": "^1.5",
-        "larastan/larastan": "^2.0",
         "pestphp/pest": "^1.21"
     },
     "autoload": {
